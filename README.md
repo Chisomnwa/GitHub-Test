@@ -1,3 +1,3 @@
 # Demo
 
-This is hoing to be amazing
+This is going to be amazing
